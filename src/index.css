@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.name{
+  position: absolute;
+  margin-top: 215px;
+  margin-left: 40px;
+}
+.number{
+  position: absolute;
+  margin-top: 135px;
+  margin-left: 45px;
+}
+.month{
+  position: absolute;
+  margin-top: 235px;
+  margin-left: 90px;
+}
+.ccv{
+  position: absolute;
+}
